@@ -13,7 +13,7 @@ permalink: /it-environment-faq/
 
 ## Infrastructure Questions
 - <span style="color: #006699; font-weight: bold;">What is the IT infrastructure?</span> 
-    - The IT infrastructure is the collection of hardware, software, networks, and services used to manage and operate an organization's IT environment.
+    - The IT infrastructure includes hardware, software, networks, and services used to manage and operate an organization's IT environment.
 
 - <span style="color: #006699; font-weight: bold;">What is a server?</span> 
     - A server is a computer that provides specific services or resources to other devices or computers in a network. 
@@ -40,4 +40,16 @@ permalink: /it-environment-faq/
 
 - <span style="color: #CC0000; font-weight: bold;">What is encryption?</span>
     - Encryption is the process of converting data into a format that can only be read by someone who has the decryption key. This helps to protect sensitive data from unauthorized access or theft.
-asdasdad
+
+## Other Questions
+- <span style="color: #663399; font-weight: bold;">What is a backup?</span>
+    - A backup is a copy of data that is stored separately from the original data in case the original data is lost or damaged.
+
+- <span style="color: #663399; font-weight: bold;">What is a password?</span>
+    - A password is a secret code that is used to authenticate and verify a user's identity when accessing a device, system, or network.
+
+- <span style="color: #663399; font-weight: bold;">What is phishing?</span>
+    - Phishing is a type of online scam where an attacker tries to trick a user into providing sensitive information, such as login credentials or credit card numbers, by pretending to be a trustworthy entity.
+
+- <span style="color: #663399; font-weight: bold;">What is two-factor authentication?</span>
+    - Two-factor authentication is a security measure that requires Two-factor authentication is a security measure that requires a user to provide two forms of identification, such as a password and a unique code sent to their phone, to access a device, system, or network. This helps to increase security and protect against unauthorized access.
